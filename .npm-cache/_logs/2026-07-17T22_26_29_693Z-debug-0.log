@@ -1,0 +1,21 @@
+0 verbose cli C:\nvm4w\nodejs\node.exe C:\nvm4w\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Users\hp\AppData\Local\nvm\v22.17.0\node_modules\npm\npmrc
+4 silly config load:file:E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npmrc
+5 silly config load:file:C:\Users\hp\.npmrc
+6 silly config load:file:C:\nvm4w\nodejs\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--package-lock-only" "--cache" ".npm-cache" "--no-audit" "--no-fund" "--registry" "https://registry.npmjs.org"
+9 verbose logfile logs-max:10 dir:E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npm-cache\_logs\2026-07-17T22_26_29_693Z-
+10 verbose logfile E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npm-cache\_logs\2026-07-17T22_26_29_693Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+14 silly idealTree buildDeps
+15 verbose cwd E:\Projects-React js\gas-bill-modern-project\gas-bill-modern
+16 verbose os Windows_NT 10.0.26200
+17 verbose node v22.17.0
+18 verbose npm  v10.9.2
+19 verbose exit 0
+20 info ok

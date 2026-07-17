@@ -1,0 +1,489 @@
+0 verbose cli C:\nvm4w\nodejs\node.exe C:\nvm4w\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Users\hp\AppData\Local\nvm\v22.17.0\node_modules\npm\npmrc
+4 silly config load:file:E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npmrc
+5 silly config load:file:C:\Users\hp\.npmrc
+6 silly config load:file:C:\nvm4w\nodejs\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" ".npm-cache" "--no-audit" "--no-fund" "--loglevel" "verbose"
+9 verbose logfile logs-max:10 dir:E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npm-cache\_logs\2026-07-17T22_22_17_421Z-
+10 verbose logfile E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npm-cache\_logs\2026-07-17T22_22_17_421Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly idealTree buildDeps
+14 silly reify mark retired [
+14 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\fsevents'
+14 silly reify ]
+15 silly reify mark retired [
+15 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-android-arm64'
+15 silly reify ]
+16 silly reify mark retired [
+16 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-arm64'
+16 silly reify ]
+17 silly reify mark retired [
+17 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-x64'
+17 silly reify ]
+18 silly reify mark retired [
+18 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-freebsd-x64'
+18 silly reify ]
+19 silly reify mark retired [
+19 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm-gnueabihf'
+19 silly reify ]
+20 silly reify mark retired [
+20 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-gnu'
+20 silly reify ]
+21 silly reify mark retired [
+21 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-musl'
+21 silly reify ]
+22 silly reify mark retired [
+22 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-gnu'
+22 silly reify ]
+23 silly reify mark retired [
+23 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-musl'
+23 silly reify ]
+24 silly reify mark retired [
+24 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-win32-arm64-msvc'
+24 silly reify ]
+25 silly reify mark retired [
+25 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lucide-react'
+25 silly reify ]
+26 silly reify mark retired [
+26 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\rolldown'
+26 silly reify ]
+27 silly reify mark retired [
+27 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\vite'
+27 silly reify ]
+28 silly reify mark retired [
+28 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-android-arm64'
+28 silly reify ]
+29 silly reify mark retired [
+29 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-arm64'
+29 silly reify ]
+30 silly reify mark retired [
+30 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-x64'
+30 silly reify ]
+31 silly reify mark retired [
+31 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-freebsd-x64'
+31 silly reify ]
+32 silly reify mark retired [
+32 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm-gnueabihf'
+32 silly reify ]
+33 silly reify mark retired [
+33 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-gnu'
+33 silly reify ]
+34 silly reify mark retired [
+34 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-musl'
+34 silly reify ]
+35 silly reify mark retired [
+35 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-s390x-gnu'
+35 silly reify ]
+36 silly reify mark retired [
+36 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-ppc64-gnu'
+36 silly reify ]
+37 silly reify mark retired [
+37 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-musl'
+37 silly reify ]
+38 silly reify mark retired [
+38 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-gnu'
+38 silly reify ]
+39 silly reify mark retired [
+39 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-openharmony-arm64'
+39 silly reify ]
+40 silly reify mark retired [
+40 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-win32-arm64-msvc'
+40 silly reify ]
+41 silly reify mark retired [
+41 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-wasm32-wasi'
+41 silly reify ]
+42 silly reify mark retired [
+42 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\autoprefixer',
+42 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer',
+42 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer.cmd',
+42 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer.ps1'
+42 silly reify ]
+43 silly reify mark retired [
+43 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\baseline-browser-mapping',
+43 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping',
+43 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping.cmd',
+43 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping.ps1'
+43 silly reify ]
+44 silly reify mark retired [
+44 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\browserslist',
+44 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist',
+44 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist.cmd',
+44 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist.ps1'
+44 silly reify ]
+45 silly reify mark retired [
+45 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\cssesc',
+45 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc',
+45 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc.cmd',
+45 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc.ps1'
+45 silly reify ]
+46 silly reify mark retired [
+46 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\jiti',
+46 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti',
+46 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti.cmd',
+46 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti.ps1'
+46 silly reify ]
+47 silly reify mark retired [
+47 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\loose-envify',
+47 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify',
+47 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify.cmd',
+47 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify.ps1'
+47 silly reify ]
+48 silly reify mark retired [
+48 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\nanoid',
+48 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid',
+48 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid.cmd',
+48 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid.ps1'
+48 silly reify ]
+49 silly reify mark retired [
+49 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\resolve',
+49 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve',
+49 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve.cmd',
+49 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve.ps1'
+49 silly reify ]
+50 silly reify mark retired [
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\sucrase',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase.cmd',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase.ps1',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node.cmd',
+50 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node.ps1'
+50 silly reify ]
+51 silly reify mark retired [
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\tailwindcss',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind.cmd',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind.ps1',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss.cmd',
+51 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss.ps1'
+51 silly reify ]
+52 silly reify mark retired [
+52 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\update-browserslist-db',
+52 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db',
+52 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db.cmd',
+52 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db.ps1'
+52 silly reify ]
+53 silly reify moves {
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\fsevents': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.fsevents-AXKlnnT6',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-android-arm64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-android-arm64-8IBEDf3V',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-arm64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-darwin-arm64-VTGAnjdF',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-x64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-darwin-x64-5AEO5ro8',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-freebsd-x64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-freebsd-x64-M9jrkO29',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm-gnueabihf': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-linux-arm-gnueabihf-RVzPHtKf',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-linux-arm64-gnu-01bxL7y7',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-musl': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-linux-arm64-musl-E6Rj6gh5',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-linux-x64-gnu-pLLU0GZ4',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-musl': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-linux-x64-musl-vBxLA5aD',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-win32-arm64-msvc': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lightningcss-win32-arm64-msvc-KtnLiTkR',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lucide-react': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.lucide-react-OAmi8TG5',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\rolldown': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.rolldown-SIlLLWqy',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\vite': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.vite-SYmLlbKK',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-android-arm64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-android-arm64-KKlERdPq',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-arm64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-darwin-arm64-mHOArMWg',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-x64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-darwin-x64-8fNnWR0P',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-freebsd-x64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-freebsd-x64-RiWiK6r8',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm-gnueabihf': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-arm-gnueabihf-rW2XagTu',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-arm64-gnu-90OvJxBV',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-musl': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-arm64-musl-p758tJUm',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-s390x-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-s390x-gnu-FQqr9O8s',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-ppc64-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-ppc64-gnu-ku27TeTQ',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-musl': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-x64-musl-qRSLUKHs',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-gnu': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-linux-x64-gnu-NtfLkzSD',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-openharmony-arm64': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-openharmony-arm64-skBSBwEH',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-win32-arm64-msvc': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-win32-arm64-msvc-6k3KsIi0',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-wasm32-wasi': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\.binding-wasm32-wasi-YAxbJBNm',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\autoprefixer': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.autoprefixer-WLubYflQ',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.autoprefixer-XONBe9Yd',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.autoprefixer.cmd-mpnYqNAh',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\autoprefixer.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.autoprefixer.ps1-IGX36iin',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\baseline-browser-mapping': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.baseline-browser-mapping-CLVimfUR',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.baseline-browser-mapping-CvUGWPUy',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.baseline-browser-mapping.cmd-IIsmOzFW',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\baseline-browser-mapping.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.baseline-browser-mapping.ps1-Z5e3eq5W',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\browserslist': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.browserslist-fQ669qnm',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.browserslist-hNSga9py',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.browserslist.cmd-DVui1zHA',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\browserslist.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.browserslist.ps1-g3FBotCJ',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\cssesc': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.cssesc-wDjUCIle',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.cssesc-ghvTNQER',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.cssesc.cmd-LKlPVGdg',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\cssesc.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.cssesc.ps1-bHNeeQ9V',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\jiti': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.jiti-JHdnZxiI',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.jiti-mtnBAVvl',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.jiti.cmd-ntHYiyuT',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\jiti.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.jiti.ps1-BAnpQ53D',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\loose-envify': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.loose-envify-FWqZWsWk',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.loose-envify-MWrN9dys',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.loose-envify.cmd-wCUbxDHM',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\loose-envify.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.loose-envify.ps1-BhZ7GFXI',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\nanoid': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.nanoid-J8SPcS1r',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.nanoid-j9KnrXwX',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.nanoid.cmd-tpU2Mbqm',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\nanoid.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.nanoid.ps1-ypFj7YpG',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\resolve': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.resolve-CQUhmHuN',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.resolve-FU34F7kB',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.resolve.cmd-bkURm7Mg',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\resolve.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.resolve.ps1-OwStLPCA',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\sucrase': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.sucrase-ybrEDCNH',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase-Rbat5ybb',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase.cmd-J1rctgxP',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase.ps1-2MOmrw4m',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase-node-7RySS6U1',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase-node.cmd-NHRqIpv2',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\sucrase-node.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.sucrase-node.ps1-ImqN5XPU',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\tailwindcss': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.tailwindcss-HFzLQzyF',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwind-Uu6z1fO7',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwind.cmd-zPtxuPlg',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwind.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwind.ps1-Cg0fCHWt',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwindcss-asYEoRAt',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwindcss.cmd-Dobb9xOX',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\tailwindcss.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.tailwindcss.ps1-FSeLmymI',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\update-browserslist-db': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.update-browserslist-db-g50TO3eZ',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.update-browserslist-db-ztOOqAPD',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db.cmd': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.update-browserslist-db.cmd-1plXLAT2',
+53 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\update-browserslist-db.ps1': 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\.bin\\.update-browserslist-db.ps1-90FC06GN'
+53 silly reify }
+54 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-wasm32-wasi
+55 silly reify mark deleted [
+55 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-wasm32-wasi'
+55 silly reify ]
+56 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@emnapi\core
+57 silly reify mark deleted [
+57 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@emnapi\\core'
+57 silly reify ]
+58 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@emnapi\runtime
+59 silly reify mark deleted [
+59 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@emnapi\\runtime'
+59 silly reify ]
+60 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@napi-rs\wasm-runtime
+61 silly reify mark deleted [
+61 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@napi-rs\\wasm-runtime'
+61 silly reify ]
+62 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@emnapi\wasi-threads
+63 silly reify mark deleted [
+63 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@emnapi\\wasi-threads'
+63 silly reify ]
+64 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\tslib
+65 silly reify mark deleted [
+65 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\tslib'
+65 silly reify ]
+66 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@tybys\wasm-util
+67 silly reify mark deleted [
+67 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@tybys\\wasm-util'
+67 silly reify ]
+68 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-win32-arm64-msvc
+69 silly reify mark deleted [
+69 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-win32-arm64-msvc'
+69 silly reify ]
+70 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-openharmony-arm64
+71 silly reify mark deleted [
+71 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-openharmony-arm64'
+71 silly reify ]
+72 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-x64-gnu
+73 silly reify mark deleted [
+73 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-gnu'
+73 silly reify ]
+74 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-x64-musl
+75 silly reify mark deleted [
+75 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-x64-musl'
+75 silly reify ]
+76 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-ppc64-gnu
+77 silly reify mark deleted [
+77 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-ppc64-gnu'
+77 silly reify ]
+78 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-s390x-gnu
+79 silly reify mark deleted [
+79 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-s390x-gnu'
+79 silly reify ]
+80 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-arm64-musl
+81 silly reify mark deleted [
+81 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-musl'
+81 silly reify ]
+82 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-arm64-gnu
+83 silly reify mark deleted [
+83 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm64-gnu'
+83 silly reify ]
+84 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-linux-arm-gnueabihf
+85 silly reify mark deleted [
+85 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-linux-arm-gnueabihf'
+85 silly reify ]
+86 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-freebsd-x64
+87 silly reify mark deleted [
+87 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-freebsd-x64'
+87 silly reify ]
+88 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-darwin-x64
+89 silly reify mark deleted [
+89 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-x64'
+89 silly reify ]
+90 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-darwin-arm64
+91 silly reify mark deleted [
+91 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-darwin-arm64'
+91 silly reify ]
+92 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\@rolldown\binding-android-arm64
+93 silly reify mark deleted [
+93 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\@rolldown\\binding-android-arm64'
+93 silly reify ]
+94 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-win32-arm64-msvc
+95 silly reify mark deleted [
+95 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-win32-arm64-msvc'
+95 silly reify ]
+96 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-linux-x64-musl
+97 silly reify mark deleted [
+97 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-musl'
+97 silly reify ]
+98 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-linux-x64-gnu
+99 silly reify mark deleted [
+99 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-x64-gnu'
+99 silly reify ]
+100 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-linux-arm64-musl
+101 silly reify mark deleted [
+101 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-musl'
+101 silly reify ]
+102 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-linux-arm64-gnu
+103 silly reify mark deleted [
+103 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm64-gnu'
+103 silly reify ]
+104 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-linux-arm-gnueabihf
+105 silly reify mark deleted [
+105 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-linux-arm-gnueabihf'
+105 silly reify ]
+106 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-freebsd-x64
+107 silly reify mark deleted [
+107 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-freebsd-x64'
+107 silly reify ]
+108 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-darwin-x64
+109 silly reify mark deleted [
+109 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-x64'
+109 silly reify ]
+110 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-darwin-arm64
+111 silly reify mark deleted [
+111 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-darwin-arm64'
+111 silly reify ]
+112 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\lightningcss-android-arm64
+113 silly reify mark deleted [
+113 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\lightningcss-android-arm64'
+113 silly reify ]
+114 verbose reify failed optional dependency E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\fsevents
+115 silly reify mark deleted [
+115 silly reify   'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\fsevents'
+115 silly reify ]
+116 silly packumentCache corgi:https://registry.npmjs.org/resolve cache-miss
+117 silly packumentCache corgi:https://registry.npmjs.org/update-browserslist-db cache-miss
+118 silly packumentCache corgi:https://registry.npmjs.org/sucrase cache-miss
+119 silly packumentCache corgi:https://registry.npmjs.org/tailwindcss cache-miss
+120 silly packumentCache corgi:https://registry.npmjs.org/nanoid cache-miss
+121 silly packumentCache corgi:https://registry.npmjs.org/loose-envify cache-miss
+122 silly packumentCache corgi:https://registry.npmjs.org/jiti cache-miss
+123 silly packumentCache corgi:https://registry.npmjs.org/cssesc cache-miss
+124 silly packumentCache corgi:https://registry.npmjs.org/browserslist cache-miss
+125 http cache rolldown@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/rolldown/-/rolldown-1.1.5.tgz 1ms (cache hit)
+126 silly packumentCache corgi:https://registry.npmjs.org/baseline-browser-mapping cache-miss
+127 http cache vite@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/vite/-/vite-8.1.5.tgz 0ms (cache hit)
+128 silly packumentCache corgi:https://registry.npmjs.org/autoprefixer cache-miss
+129 http cache lucide-react@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/lucide-react/-/lucide-react-1.25.0.tgz 0ms (cache hit)
+130 silly tarball no local data for rolldown@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/rolldown/-/rolldown-1.1.5.tgz. Extracting by manifest.
+131 http cache mz@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz 0ms (cache hit)
+132 silly tarball no local data for vite@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/vite/-/vite-8.1.5.tgz. Extracting by manifest.
+133 http cache picomatch@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/picomatch/-/picomatch-4.0.5.tgz 0ms (cache hit)
+134 silly tarball no local data for lucide-react@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/lucide-react/-/lucide-react-1.25.0.tgz. Extracting by manifest.
+135 silly tarball no local data for mz@https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz. Extracting by manifest.
+136 http cache https://registry.npmjs.org/sucrase 178ms (cache hit)
+137 silly packumentCache corgi:https://registry.npmjs.org/sucrase set size:163085 disposed:false
+138 http cache https://registry.npmjs.org/resolve 192ms (cache hit)
+139 silly packumentCache corgi:https://registry.npmjs.org/resolve set size:105902 disposed:false
+140 http cache https://registry.npmjs.org/nanoid 192ms (cache hit)
+141 silly packumentCache corgi:https://registry.npmjs.org/nanoid set size:155994 disposed:false
+142 http cache https://registry.npmjs.org/tailwindcss 214ms (cache hit)
+143 silly packumentCache corgi:https://registry.npmjs.org/tailwindcss set size:4770405 disposed:false
+144 http cache https://registry.npmjs.org/update-browserslist-db 256ms (cache hit)
+145 silly packumentCache corgi:https://registry.npmjs.org/update-browserslist-db set size:34844 disposed:false
+146 http cache https://registry.npmjs.org/jiti 257ms (cache hit)
+147 silly packumentCache corgi:https://registry.npmjs.org/jiti set size:233973 disposed:false
+148 http cache https://registry.npmjs.org/loose-envify 269ms (cache hit)
+149 silly packumentCache corgi:https://registry.npmjs.org/loose-envify set size:4759 disposed:false
+150 http cache https://registry.npmjs.org/cssesc 272ms (cache hit)
+151 silly packumentCache corgi:https://registry.npmjs.org/cssesc set size:5568 disposed:false
+152 http cache https://registry.npmjs.org/baseline-browser-mapping 271ms (cache hit)
+153 silly packumentCache corgi:https://registry.npmjs.org/baseline-browser-mapping set size:160990 disposed:false
+154 http cache https://registry.npmjs.org/browserslist 280ms (cache hit)
+155 silly packumentCache corgi:https://registry.npmjs.org/browserslist set size:274826 disposed:false
+156 http cache https://registry.npmjs.org/autoprefixer 281ms (cache hit)
+157 silly packumentCache corgi:https://registry.npmjs.org/autoprefixer set size:303229 disposed:false
+158 http cache https://registry.npmjs.org/sucrase/-/sucrase-3.35.1.tgz 172ms (cache hit)
+159 http cache https://registry.npmjs.org/update-browserslist-db/-/update-browserslist-db-1.2.3.tgz 136ms (cache hit)
+160 http cache https://registry.npmjs.org/nanoid/-/nanoid-3.3.16.tgz 200ms (cache hit)
+161 http cache https://registry.npmjs.org/resolve/-/resolve-1.22.12.tgz 207ms (cache hit)
+162 http cache https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.4.19.tgz 154ms (cache hit)
+163 http cache https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz 133ms (cache hit)
+164 http cache https://registry.npmjs.org/jiti/-/jiti-1.21.7.tgz 142ms (cache hit)
+165 http cache https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz 138ms (cache hit)
+166 http cache https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.10.43.tgz 132ms (cache hit)
+167 http cache https://registry.npmjs.org/browserslist/-/browserslist-4.28.6.tgz 130ms (cache hit)
+168 http cache https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.5.4.tgz 127ms (cache hit)
+169 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/vite/-/vite-8.1.5.tgz attempt 1 failed with ETIMEDOUT
+170 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/lucide-react/-/lucide-react-1.25.0.tgz attempt 1 failed with ETIMEDOUT
+171 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/rolldown/-/rolldown-1.1.5.tgz attempt 1 failed with ETIMEDOUT
+172 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz attempt 1 failed with ETIMEDOUT
+173 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/lucide-react/-/lucide-react-1.25.0.tgz attempt 2 failed with ETIMEDOUT
+174 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/vite/-/vite-8.1.5.tgz attempt 2 failed with ETIMEDOUT
+175 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz attempt 2 failed with ETIMEDOUT
+176 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/rolldown/-/rolldown-1.1.5.tgz attempt 2 failed with ETIMEDOUT
+177 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/vite/-/vite-8.1.5.tgz attempt 3 failed with ETIMEDOUT
+178 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/lucide-react/-/lucide-react-1.25.0.tgz attempt 3 failed with ETIMEDOUT
+179 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/rolldown/-/rolldown-1.1.5.tgz attempt 3 failed with ETIMEDOUT
+180 http fetch GET https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz attempt 3 failed with ETIMEDOUT
+181 warn cleanup Failed to remove some directories [
+181 warn cleanup   [
+181 warn cleanup     'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\resolve',
+181 warn cleanup     [Error: EPERM: operation not permitted, rmdir 'E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\resolve\test\node_path'] {
+181 warn cleanup       errno: -4048,
+181 warn cleanup       code: 'EPERM',
+181 warn cleanup       syscall: 'rmdir',
+181 warn cleanup       path: 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\resolve\\test\\node_path'
+181 warn cleanup     }
+181 warn cleanup   ],
+181 warn cleanup   [
+181 warn cleanup     'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\sucrase',
+181 warn cleanup     [Error: EPERM: operation not permitted, rmdir 'E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\node_modules\sucrase\dist\parser'] {
+181 warn cleanup       errno: -4048,
+181 warn cleanup       code: 'EPERM',
+181 warn cleanup       syscall: 'rmdir',
+181 warn cleanup       path: 'E:\\Projects-React js\\gas-bill-modern-project\\gas-bill-modern\\node_modules\\sucrase\\dist\\parser'
+181 warn cleanup     }
+181 warn cleanup   ]
+181 warn cleanup ]
+182 verbose type system
+183 verbose stack FetchError: request to https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz failed, reason: connect ETIMEDOUT 10.192.71.42:443
+183 verbose stack     at ClientRequest.<anonymous> (C:\Users\hp\AppData\Local\nvm\v22.17.0\node_modules\npm\node_modules\minipass-fetch\lib\index.js:130:14)
+183 verbose stack     at ClientRequest.emit (node:events:518:28)
+183 verbose stack     at emitErrorEvent (node:_http_client:104:11)
+183 verbose stack     at _destroy (node:_http_client:898:9)
+183 verbose stack     at onSocketNT (node:_http_client:918:5)
+183 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+184 error code ETIMEDOUT
+185 error syscall connect
+186 error errno ETIMEDOUT
+187 error network request to https://packages.applied-caas-gateway1.internal.api.openai.org/artifactory/api/npm/npm-public/mz/-/mz-2.7.0.tgz failed, reason: connect ETIMEDOUT 10.192.71.42:443
+188 error network This is a problem related to network connectivity.
+188 error network In most cases you are behind a proxy or have bad network settings.
+188 error network
+188 error network If you are behind a proxy, please make sure that the
+188 error network 'proxy' config is set properly.  See: 'npm help config'
+189 silly unfinished npm timer reify 1784326938372
+190 silly unfinished npm timer reify:unpack 1784326939073
+191 silly unfinished npm timer reifyNode:node_modules/sucrase/node_modules/mz 1784326939073
+192 silly unfinished npm timer reifyNode:node_modules/vite 1784326939074
+193 silly unfinished npm timer reifyNode:node_modules/rolldown 1784326939074
+194 silly unfinished npm timer reifyNode:node_modules/lucide-react 1784326939074
+195 verbose cwd E:\Projects-React js\gas-bill-modern-project\gas-bill-modern
+196 verbose os Windows_NT 10.0.26200
+197 verbose node v22.17.0
+198 verbose npm  v10.9.2
+199 verbose exit 1
+200 verbose code 1
+201 error A complete log of this run can be found in: E:\Projects-React js\gas-bill-modern-project\gas-bill-modern\.npm-cache\_logs\2026-07-17T22_22_17_421Z-debug-0.log
